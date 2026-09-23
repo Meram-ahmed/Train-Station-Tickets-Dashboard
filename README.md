@@ -15,5 +15,5 @@ An interactive Excel dashboard designed to monitor ticket operations, revenue, a
 * **Data Visualization:** Column charts, bar charts, pie charts, and line charts.
 * **Data Filtering:** Interactive Slicers for dynamic exploration.
 
-‎##![Dashboard Preview](Excel.png)
+‎![Dashboard Preview](Excel.png)
 
