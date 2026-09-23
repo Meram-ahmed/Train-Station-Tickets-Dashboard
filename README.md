@@ -16,5 +16,6 @@ An interactive Excel dashboard designed to monitor ticket operations, revenue, a
 * **Data Filtering:** Interactive Slicers for dynamic exploration.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](<img width="1223" height="655" alt="Screenshot 2026-09-20 183153" src="https://github.com/user-attachments/assets/b7f2b503-f35f-4d1d-878c-d27c1fc4e630" />
-)
+![Dashboard Preview](<img width="1223" height="655" alt="Excel" src="https://github.com/user-attachments/assets/c883e48c-2333-4b13-b7ab-58db7631d4f9" />)0
+
+
